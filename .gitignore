@@ -1,0 +1,6 @@
+*.ipynb
+*.pyc
+*.safetensors
+*.pt
+*.bin
+*.pth
